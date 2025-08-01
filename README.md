@@ -16,6 +16,7 @@ This is a frontend To-Do List application using React, Tailwind CSS, and JWT aut
 git clone https://github.com/username/nama-repo.git
 cd nama-repo
 
-## Install Depedencies
+Install Depedencies
+
 npm install
 npm run dev
